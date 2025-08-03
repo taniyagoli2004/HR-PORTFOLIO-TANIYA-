@@ -1,7 +1,7 @@
 HR Analytics & Reporting Portfolio – Taniya Goli
 
 Welcome to my HR Analytics portfolio!  
-This repository showcases my hands-on projects in **HR Reporting, Analytics, and Excel Dashboards, built to demonstrate my ability to convert HR data into actionable insights.
+This repository showcases my hands-on projects in HR Reporting, Analytics, and Excel Dashboards, built to demonstrate my ability to convert HR data into actionable insights.
 
 📂 Projects Included
 
